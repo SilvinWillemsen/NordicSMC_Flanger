@@ -1,2 +1,4 @@
-# NordicSMC_Effect
-Simple audio plugin to be used as a starting point for the NordicSMC JUCE Workshop. If you have not installed the software, please read Instructions/NordicSMC_2021_JUCE_Workshop_Instructions.pdf first.
+# NordicSMC_Flanger
+The NordicSMC_Effect code modified to a Flanger. See https://github.com/SilvinWillemsen/NordicSMC_Effect for the original code. 
+
+Refer to https://nordicsmc.create.aau.dk/?page_id=349 for the conference webpage.
